@@ -1,0 +1,5 @@
+{
+  "name": "Print-Ready Tax Invoice Generator",
+  "description": "A web application to generate, preview, and print professional, print-ready tax invoices with ZATCA-compliant QR codes. Users can input seller, buyer, and item details to create a polished invoice.",
+  "requestFramePermissions": []
+}
